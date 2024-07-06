@@ -61,6 +61,24 @@ body {
     color: #80bfb2;
 }
 
+a {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 10px;
+    background-color: #a76d6d;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #000000;
+    z-index: 1;
+    font-size: 15px;
+}
+
+a:hover {
+    background-color: #665d5d;
+}
+
+
 @keyframes letra1 {
     0% {
         transform: rotateX(85deg);

@@ -3,14 +3,34 @@ body{
     padding: 0;
     width: 100vw;
     height: 100vh;
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
 }
 
 .caminante {
     width: 500px;
     height: 500px;
     position: absolute;
-    left: 30%;
-    animation: caminar 1s infinite;
+    left: 115rem;
+    margin-top: 150px;
+    animation: caminar 1s infinite, movimiento 10s linear infinite;
+}
+a {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 10px;
+    background-color: #a76d6d;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #000000;
+    z-index: 1;
+}
+
+a:hover {
+    background-color: #665d5d;
 }
 
 @keyframes caminar {
@@ -58,4 +78,9 @@ body{
         background-image: url(img/uno.png);
     }
 
+}
+@keyframes movimiento {
+    100% {
+        left: -25rem;
+    }
 }

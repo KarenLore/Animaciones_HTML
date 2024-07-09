@@ -14,7 +14,7 @@ body{
     height: 500px;
     position: absolute;
     left: 115rem;
-    margin-top: 150px;
+    margin-top: 400px;
     animation: caminar 1s infinite, movimiento 10s linear infinite;
 }
 a {

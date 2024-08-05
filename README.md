@@ -59,4 +59,4 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 > Las animaciones complejas pueden impactar el rendimiento, realiza pruebas y optimiza según sea necesario.
 
 > [!CAUTION]
-> No sobrecargues tu página con demasiadas aimaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada.
+> No sobrecargues tu página con demasiadas animaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada.

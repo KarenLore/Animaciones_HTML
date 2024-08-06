@@ -1,4 +1,4 @@
-# Animaciones_HTML
+# 🌈Animaciones_HTML
 Esta animaciones fueron un reto, por su dificultad en el momento de ralizar el movimiento de cada letra o figura dadas por el profesor anterior.
 
 ## Tabla de contenidos
@@ -9,7 +9,7 @@ Esta animaciones fueron un reto, por su dificultad en el momento de ralizar el m
 | 3 | Animación Caminante |
 | 4 | Animación Robot |
 
-### Ejecución
+### ✔️Ejecución
 Deberas ejecutar el comando git clone para copiar el repositorio
   [Link](https://github.com/KarenLore/Animaciones_HTML.git)
 
@@ -25,7 +25,7 @@ Código realizado en:
 
 ## Sección 1
 ### Animación Letras
-### Descripción
+### 🖊️Descripción
 Esta animación muestra unas letras que se mueven de arriba hacia abajo. Utiliza transiciones CSS para crear un efecto de desplazamiento vertical, ideal para represetar textos dinámicos en la interfaz.  
 
 ## Sección 2
@@ -61,3 +61,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > No sobrecargues tu página con demasiadas animaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
